@@ -8,4 +8,4 @@ Pythonで作った、シンプルなポモドーロタイマーです。
 Python 3をインストールし、次のコマンドを実行してください。
 
 ```bash
-python pomodoro.py
+Pomodoro-Timer.py
